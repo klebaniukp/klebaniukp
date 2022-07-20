@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Piotrek 👋</h1>
 <h3 align="center">Fullstack Developer from Poland 💻🇵🇱</h3>
 <ul>  
-  <li> Working on multiple frontend and backend projects using React and Nodejs 🔭</li>
+  <li> Worked on multiple frontend and backend projects using React and Nodejs 🔭</li>
   <li> Learning design patterns in depth 🤓</li>
 </ul>
   
