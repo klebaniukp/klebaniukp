@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Piotrek 👋</h1>
-<h3 align="center">Fullstack Developer from Poland 💻🇵🇱</h3>
+<h3 align="center">Fullstack Developer from Poland with strong blockchain focus 💻🇵🇱</h3>
 <ul>  
-  <li> Worked on multiple frontend and backend projects using React and Nodejs 🔭</li>
-  <li> Learning design patterns in depth 🤓</li>
+  <li> Worked on multiple commercial and non-commercial frontend and backend projects, recently in blockchain industry 🔭, currently focusing XRPL</li>
 </ul>
   
 <h3 align="center">Tech stack</h3>
